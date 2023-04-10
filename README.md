@@ -13,7 +13,7 @@ La aplicación también cuenta con una interfaz de usuario moderna y atractiva, 
 1. Clona este repositorio en tu máquina local utilizando el siguiente comando:
 
 ```
-git clone https://github.com/roberto-aq/Quiz-App-con-React
+git clone https://github.com/DerianDev17/quiz-eus3.git
 ```
 
 2. Entra en el directorio del proyecto:
